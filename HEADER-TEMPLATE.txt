@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
+ * Student ID :1670704335
+ * Name       :Thanakrit Preyapanarakui
+ * Section    :129A
  * No.        :
  * Course     : GI113 Computer Programming (GI)
  */
